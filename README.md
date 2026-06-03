@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=NABEEL%20ARSHAD&fontSize=60&fontColor=E4CAB5&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=M.NABEEL%20ARSHAD&fontSize=60&fontColor=E4CAB5&animation=fadeIn" width="100%"/>
 </div>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=600&lines=DATA+SCIENCE+%26+AI+ENGINEER;BIG+DATA+%7C+AUTOMATION;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing SVG" />
 </h3>
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/muhammadnabeelarshad?utm_source=share_via&utm_content=profile&utm_medium=member_ios?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://github.com/Nabeelarshad381"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;<a href="mailto:abdur.dev@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/muhammadnabeelarshad?utm_source=share_via&utm_content=profile&utm_medium=member_ios?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://github.com/Nabeelarshad381"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;<a href="mailto:nabeelarshad3000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -59,17 +59,9 @@ class AboutMe:
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| 🍳 **DISHBRAIN** | RAG recipe generator with FAISS + Kafka + ensemble LLM | Python, Kafka, React |
 | 🛡️ **Sentinel** | Real-time fraud detection (~95% AUC-ROC) | Kafka, Spark, XGBoost, LSTM |
 | 🔗 **BookinPK** | Decentralized booking dApp on Ethereum | Solidity, Web3.js, MetaMask |
 
-</div>
-
-<div align="center">
-  <a href="https://github.com/Zin-7045/RecipeGenerator"><img src="https://img.shields.io/badge/DISHBRAIN-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="DISHBRAIN Repo"/></a>
-  <a href="https://github.com/Zin-7045/Sentinel-Fraud-Detection"><img src="https://img.shields.io/badge/Sentinel-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Sentinel Repo"/></a>
-  <a href="https://github.com/Zin-7045/BookinPK-dApp"><img src="https://img.shields.io/badge/BookinPK-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="BookinPK Repo"/></a>
-</div>
 
 ---
 
@@ -86,7 +78,7 @@ class AboutMe:
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadnabeelarshad?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdur.dev@outlook.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeelarshad3000@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer&animation=fadeIn" width="100%"/>
 
